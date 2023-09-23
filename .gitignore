@@ -1,0 +1,8 @@
+.idea/.gitignore
+.__pycache__/app.cpython-39.pyc
+.idea/WebAutomato.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+__pycache__/
